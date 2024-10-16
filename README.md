@@ -1,5 +1,5 @@
 
-#### Decimal
+# Decimal
 
 The Decimal value type represents decimal numbers ranging from positive 79,228,162,514,264,337,593,543,950,335 to negative 79,228,162,514,264,337,593,543,950,335. The default value of a Decimal is 0. The Decimal value type is suitable for financial calculations that require a large number of significant integral and fractional digits and no rounding errors. The Decimal type does not eliminate the need for rounding. Rather, it minimises rounding errors.
 
